@@ -1,0 +1,21 @@
+{
+  "name": "js-validation-regex",
+  "version": "1.0.0",
+  "description": "Validation RegEx for Javascript and Node JS",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eumentis-cloud/js-validation-regex.git"
+  },
+  "keywords": [
+    "javascript",
+    "validation",
+    "regex"
+  ],
+  "author": "Pawan Samdani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eumentis-cloud/js-validation-regex/issues"
+  },
+  "homepage": "https://github.com/eumentis-cloud/js-validation-regex#readme"
+}
