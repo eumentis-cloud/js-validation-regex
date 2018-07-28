@@ -11,4 +11,6 @@ module.exports = {
   dateString: /^\d{4}-\d{2}-\d{2}$/,
   charactersOnly: /^[a-zA-Z]*$/,
   alphanumeric: /^[a-zA-Z\d]*$/,
+  ascii: /^[\x20-\x7E]*$/,
+  string: /^[\x20-\x7E]*$/,
 };
