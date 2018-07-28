@@ -12,5 +12,5 @@ module.exports = {
   charactersOnly: /^[a-zA-Z]*$/,
   alphanumeric: /^[a-zA-Z\d]*$/,
   ascii: /^[\x20-\x7E]*$/,
-  string: /^[\x20-\x7E]*$/,
+  string: /^[\w\x20-\x2F\x2C-\x2E\x3A\x3B\x3F\x40\x5B\x5D\x60\x7C\x7E]*$/,
 };
