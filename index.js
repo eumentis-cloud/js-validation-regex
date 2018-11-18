@@ -1,5 +1,5 @@
 module.exports = {
-  mobile: /^[7-9]\d{9}$/,
+  mobile: /^[6-9]\d{9}$/,
   landline: /^[0]\d{10}$/,
   name: /^[a-zA-Z][a-zA-Z ]*[a-zA-Z]$/,
   pincode: /^\d{6}$/,
