@@ -15,4 +15,6 @@ module.exports = {
   string: /^[\w\x20-\x2F\x2C-\x2E\x3A\x3B\x3F\x40\x5B\x5D\x60\x7C\x7E]*$/,
   address: /^[a-zA-Z\d,."'\x2D\x20\n\r]*$/,
   gstin: /^\d{2}[A-Z]{5}\d{4}[A-Z][a-zA-Z\d]Z[a-zA-Z\d]$/,
+  drivingLicence: /^[A-Z]{2}\d{13}$/,
+  vehicleRegistrationNumber: /^[A-Z]{2}\d{1,3}[A-Z]{1,3}\d{4}$/,
 };
