@@ -1,8 +1,9 @@
 {
   "name": "@eumentis-cloud/js-validation-regex",
-  "version": "1.5.1",
+  "version": "1.6.0",
   "description": "Validation RegEx for Javascript and Node JS",
   "main": "index.js",
+  "types": "index.d.ts",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/eumentis-cloud/js-validation-regex.git"
